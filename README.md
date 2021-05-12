@@ -1,16 +1,20 @@
 # vexpenses
 
-A new Flutter project.
+<h2>Flutter project - V_Expenses</h2>
 
-## Getting Started
+This Application is about recording and managing our daily expenses
 
-This project is a starting point for a Flutter application.
+1. Landing Page
 
-A few resources to get you started if this is your first Flutter project:
+![1](https://user-images.githubusercontent.com/57450152/117967725-06036a80-b343-11eb-8ccc-83d08832cf86.JPG)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+2. Expense Adding Form 
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![2](https://user-images.githubusercontent.com/57450152/117967805-1fa4b200-b343-11eb-8071-6f64fde3317f.JPG)
+
+3. Expense Dashboard
+
+![3](https://user-images.githubusercontent.com/57450152/117967828-28958380-b343-11eb-9cce-b2a2dc97e191.JPG)
+
+
+
